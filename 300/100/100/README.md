@@ -2,6 +2,8 @@
 
 Based on "How to add links to websites?" at https://help.noteplan.co/article/168-how-to-add-links-to-websites
 
+Based on "n8n public REST API" at https://docs.n8n.io/api/
+
 Simply copy a URL to your clipboard, then paste it into a note of NotePlan. You can hoover over the link to edit it, open it in a new tab (default) or remove it.
 
 ```

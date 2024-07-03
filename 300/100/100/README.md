@@ -6,7 +6,7 @@ Based on "n8n public REST API" at https://docs.n8n.io/api/
 
 Based on "How to build an API with n8n: a comprehensive tutorial" at https://blog.n8n.io/how-to-build-api/
 
-Simply copy a URL to your clipboard, then paste it into a note of NotePlan. You can hoover over the link to edit it, open it in a new tab (default) or remove it.
+Simply copy a URL (here: ```https://google.com```) to your clipboard, then paste it into a note of NotePlan. You can hoover over the link to edit it, open it in a new tab (default) or remove it.
 
 ```
 https://google.com

@@ -14,5 +14,7 @@ The initial name of the new Teamspace will be ```Untitled```. Click on the right
 
 Here we rename the Teamspace to ```Agility Game```.
 
+![create-a-teamspace-003](https://github.com/vanHeemstraSystems/noteplan/assets/1499433/c1a771a2-65e5-4a5f-b29c-fce3ce66c900)
+
 
 

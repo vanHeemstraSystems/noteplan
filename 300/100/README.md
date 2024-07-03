@@ -11,7 +11,7 @@ Use Cases:
 
 ## 100 - For Web based NotePlan (recommended)
 
-Links: https://help.noteplan.co/article/168-how-to-add-links-to-websites
+See [README.md](./100/README.md)
 
 ## 200 - For Mac or iOS NotePlan App
 

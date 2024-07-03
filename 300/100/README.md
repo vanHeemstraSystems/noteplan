@@ -24,3 +24,8 @@ For now we do not invite new members, as the one who created the Teamspace will 
 
 ![create-a-teamspace-005](https://github.com/vanHeemstraSystems/noteplan/assets/1499433/4c8d8dd3-6733-4829-ab0b-babf6a7a650f)
 
+Now add the following folders:
+
+- 20 - Areas: in this folder we can make subfolders for each department (e.g. Engineering, Marketing, Customer Development).
+
+Reading from top to bottom the folders initials spell ```PARA```, a much used structure.

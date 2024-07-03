@@ -1,4 +1,4 @@
-# 100 - Trigger n8n from NotePlan
+# 9999 - Trigger n8n from NotePlan
 
 Documented at https://www.reddit.com/r/noteplanapp/comments/1dsrals/how_to_trigger_n8n_from_within_noteplan/?rdt=39361
 

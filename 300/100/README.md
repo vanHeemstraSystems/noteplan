@@ -27,6 +27,7 @@ For now we do not invite new members, as the one who created the Teamspace will 
 Now add the following folders:
 
 - 20 - Areas: in this folder we can make subfolders for each department (e.g. Engineering, Marketing, Customer Development).
+- 50 - Templates: we dedicate a separate section to templates.
 
 **TIP**: By prefixing a numeric or alphanumeric value to a folder name (e.g. ```20 - Areas```) we can control the order in which the folders are stacked (A-Z, 0-99).
 

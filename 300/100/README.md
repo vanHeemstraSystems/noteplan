@@ -28,4 +28,6 @@ Now add the following folders:
 
 - 20 - Areas: in this folder we can make subfolders for each department (e.g. Engineering, Marketing, Customer Development).
 
+**TIP**: By prefixing a numeric or alphanumeric value to a folder name (e.g. ```20 - Areas```) we can control the order in which the folders are stacked (A-Z, 0-99).
+
 Reading from top to bottom the folders initials spell ```PARA```, a much used structure.

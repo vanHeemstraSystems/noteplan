@@ -8,6 +8,8 @@ Simply copy a URL to your clipboard, then paste it into a note of NotePlan. You 
 https://google.com
 ```
 
+![create-a-link-001](https://github.com/vanHeemstraSystems/noteplan/assets/1499433/3e2adbd7-2f66-405b-8075-b9ccd286a127)
+
 
 
 MORE

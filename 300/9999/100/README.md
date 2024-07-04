@@ -20,4 +20,10 @@ https://google.com
 
 Based on "n8n Form Trigger" at https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.formtrigger/
 
+Based on n8n Webhook" as described in the book "Rapid Product Development with n8n" by Jason McFeetors & Tanay Pant
+
+**NOTE**: Instead of a form, we create a Web Hook in n8n.
+
+The Webhook node is a trigger node that executes a workflow when it receives a remote connection. It collects the information that it receives and performs actions based on that information.
+
 MORE

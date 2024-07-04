@@ -18,6 +18,6 @@ https://google.com
 
 ## 200 - Create a Trigger in n8n to be called from Web based NotePlan
 
-
+Based on "n8n Form Trigger" at https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.formtrigger/
 
 MORE

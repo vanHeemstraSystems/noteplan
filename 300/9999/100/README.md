@@ -26,4 +26,4 @@ Based on n8n Webhook" as described in the book "Rapid Product Development with n
 
 The Webhook node is a trigger node that executes a workflow when it receives a remote connection. It collects the information that it receives and performs actions based on that information.
 
-MORE
+For details see https://github.com/vanHeemstraSystems/noteplan-n8n

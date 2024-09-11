@@ -15,3 +15,5 @@ Use the above solution to run NotePlan on Windows.
 ### NotePlan on iOS
 
 For iPhone or iPad, visit the App Store and browse for "NotePlan".
+
+**IMPORTANT**: Use your Apple ID (here: willem.van.heemstra@creations.global) to sign in both within the Web as well as within the App / Desktop, to assure the data is synchronized between the different paltforms.
